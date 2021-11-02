@@ -1,4 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to Jan's homework
+
+### Below is the random nonsense
+so check the real stuff here:
+
+* [Home](#Home)
+* [About](#About)
+
+
 
 You can use the [editor on GitHub](https://github.com/jankaWIS/web4Gabor/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
