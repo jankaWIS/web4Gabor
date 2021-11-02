@@ -2,8 +2,8 @@
 
 This is the front page. Check out the [About me](#About) page to check all what Gabor wants to know about us. This serves as a link between them because that is also what he wants from us.
 
-* [Exercism](#Exercism)
-* [About me](#About)
+* [Exercism](web4Gabor/exercism)
+* [About me](web4Gabor/about)
 
 
 
