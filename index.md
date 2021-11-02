@@ -3,9 +3,13 @@
 ### Below is the random nonsense
 so check the real stuff here:
 
-* [Home](/web4Gabor/home)
-* [Exercism](web4Gabor/exercism)
-* [About me](web4Gabor/about)
+### Links
+
+* [Home](https://jankawis.github.io/web4Gabor/home)
+* [About me](https://jankawis.github.io/web4Gabor/about)
+* [Exercism](https://jankawis.github.io/web4Gabor/exercism)
+
+<!--- * [About me](web4Gabor/about)) -->
 
 ----------
 You can use the [editor on GitHub](https://github.com/jankaWIS/web4Gabor/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
