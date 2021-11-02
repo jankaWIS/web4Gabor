@@ -2,9 +2,11 @@
 
 This is the front page. Check out the [About me](#About) page to check all what Gabor wants to know about us. This serves as a link between them because that is also what he wants from us.
 
-* [Exercism](web4Gabor/exercism)
-* [About me](web4Gabor/about)
+### Links
 
+* [Home](https://jankawis.github.io/web4Gabor/home)
+* [About me](https://jankawis.github.io/web4Gabor/about)
+* [Exercism](https://jankawis.github.io/web4Gabor/exercism)
 
 
 ## Tasks which we should do
