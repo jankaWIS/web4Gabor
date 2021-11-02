@@ -11,3 +11,8 @@
 * [12 days](https://exercism.org/tracks/python/exercises/twelve-days/solutions/jankaWIS)
 * [Scrabble score](https://exercism.org/tracks/python/exercises/scrabble-score/solutions/jankaWIS)
 
+## Mentoring
+
+### I mentored
+
+* SaarEzagouri on Little Sister's Essay
