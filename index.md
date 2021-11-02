@@ -3,8 +3,8 @@
 ### Below is the random nonsense
 so check the real stuff here:
 
-* [Home](#Home)
-* [About](#About)
+* [Home](home.md)
+* [About](about.md)
 
 
 ----------
