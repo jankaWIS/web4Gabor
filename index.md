@@ -3,8 +3,9 @@
 ### Below is the random nonsense
 so check the real stuff here:
 
-* [Home](home.md)
-* [About](about.md)
+* [Home](/home)
+* [About](/about)
+* [Exercism](/exercism)
 
 
 ----------
