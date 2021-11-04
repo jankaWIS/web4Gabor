@@ -19,4 +19,4 @@
 
 ### I was mentored by
 
-* IsaacG on Protein translation
+* IsaacG on [Protein translation](https://exercism.org/tracks/python/exercises/protein-translation/solutions/jankaWIS)
