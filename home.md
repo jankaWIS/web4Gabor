@@ -7,7 +7,7 @@ This is the front page. Check out the [About me](#About) page to check all what 
 * [Home](https://jankawis.github.io/web4Gabor/home)
 * [About me](https://jankawis.github.io/web4Gabor/about)
 * [Exercism](https://jankawis.github.io/web4Gabor/exercism)
-
+* [The other webpage Gabor asked us to do](https://jankawis.github.io/web8Gabor)
 
 ## Tasks which we should do
 1. Have at least two pages in your GitHub pages website. Link between them.
