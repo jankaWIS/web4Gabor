@@ -8,6 +8,7 @@ so check the real stuff here:
 * [Home](https://jankawis.github.io/web4Gabor/home)
 * [About me](https://jankawis.github.io/web4Gabor/about)
 * [Exercism](https://jankawis.github.io/web4Gabor/exercism)
+* [The other webpage Gabor asked us to do](https://jankawis.github.io/web8Gabor)
 
 <!--- * [About me](web4Gabor/about)) -->
 
@@ -47,3 +48,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+There is also this [super cool webpage](https://realfavicongenerator.net/favicon_result?file_id=3ee58346a457a25ae64a67e26fd300f6b88ebf64) which allows you to generate flavicons.
